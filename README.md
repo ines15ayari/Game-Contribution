@@ -1,7 +1,7 @@
-# Flying plane SDL2 animation
+# Spongebob Secret Recipe
 
 This project is written in C and uses [CMake][] as a build system.<br>
-It shows how we can make a basic animation using [SDL2][SDL] : Flying plane.
+It shows how we can make a basic animation using [SDL2][SDL] : 2 Players moving in a map racing for the recipe.
 
 
 It could be used as a base for any SDL2 game. Just fork it, clone it and
@@ -9,6 +9,35 @@ execute the `rename_project.sh` script. You will be prompted to enter the new
 project name, the new executable name and the new git repository, but you can
 keep the autodetected values. Finally, just commit and push the result to your
 repository.
+
+# Description
+
+We developed this game during our Freshman year as part of our ISS project. It consists of 2 characters from the show 'Spongebob' racing to get the secret recipe, while also trying to avoid the obstacles that we have designed and prepared for the players.
+
+# Authors / Original developers
+
+The project was originally developed by:
+
+- [Amine Ben Hassouna](https://github.com/aminosbh)
+- [Ines Ayari][]
+- [Chaima Rajah][]
+
+# Contributing
+
+Thank you for your interest in our project. There are many ways to contribute,
+and we appreciate all of them :
+
+- Source Code
+- Unit tests
+- Bug Reports
+- Documentation
+- Localization
+- etc
+
+Do not hesitate to open a pull request of you find an error or if you want to add
+a features.
+
+Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LICENSE).
 
 ## Dependencies
 
@@ -64,6 +93,9 @@ See [IDE_USAGE.md](IDE_USAGE.md) for details.
 ## License
 
 Author: Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)
+[Ines Ayari]
+
+[Chaima Rajah]
 
 This project is distributed under the terms of the MIT license
 [&lt;LICENSE&gt;](LICENSE).
